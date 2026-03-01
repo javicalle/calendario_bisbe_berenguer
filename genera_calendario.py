@@ -20,7 +20,11 @@ response.raise_for_status()
 soup = BeautifulSoup(response.text, "html.parser")
 calendar = Calendar()
 
-partidos = soup.find_all("tr", class_="detallEnfrontament")
+resultats = soup.find_all("table", class_="table-resultats")
+jornada = resultats.find("caption").get_text(strip=True)
+
+# partidos = soup.find_all("tr", class_="detallEnfrontament")
+partidos = resultats.find_all("tr", class_="detallEnfrontament")
 
 for partido in partidos:
 
@@ -73,7 +77,7 @@ for partido in partidos:
     evento.url = enlace_detalle
 
     evento.description = (
-        f"Partido liga escolar\n\n"
+        f"{jornada} liga escolar\n\n"
         f"Condición: {condicion}\n"
         f"Local: {local}\n"
         f"Visitante: {visitante}\n\n"
