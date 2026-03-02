@@ -22,7 +22,8 @@ COMPETICION = "preferent-infantil-s14"
 GRUPO = "grup-2"
 EQUIPO = "fundacio-academia-f-lhospitalet-a"
 
-FAF = "FUNDACIÓ ACADEMIA F. L\'HOSPITALET A"
+# FAF = "FUNDACIÓ ACADEMIA F. L\'HOSPITALET  A"
+FAF = "FUNDACIÓ ACADEMIA F."
 
 CALENDAR_URL = f"{BASE_URL}calendari-equip/{TEMPORADA}/{DISCIPLINA}/{COMPETICION}/{GRUPO}/{EQUIPO}"
 
@@ -37,7 +38,7 @@ calendar = Calendar()
 
 # resultados = soup.find_all("table", class_="fcftable")
 partidos = soup.find("table", class_="fcftable").find('tbody').find_all('tr')
-print("partidos" + str(partidos))
+# print("partidos" + str(partidos))
 
 # partidos = soup.select("table.fcftable tbody tr")
 
@@ -54,7 +55,7 @@ for partido in partidos:
     visitante_link = cols[4].a.get('href').replace(f"{BASE_URL}equip/{TEMPORADA}/", '')
     resultado = cols[5].get_text(strip=True)
 
-    print(f"--> {jornada} {fecha} {hora} {local} {visitante}")
+    # print(f"--> {jornada} {fecha} {hora} {local} {visitante}")
 
     if FAF not in local and FAF not in visitante:
         continue
@@ -109,14 +110,14 @@ for partido in partidos:
     uid_source = f"{local}-{visitante}"
     evento.uid = hashlib.md5(uid_source.encode()).hexdigest()
 
-    # ---- Recordatorio automático (2 horas antes) ----
-    evento.alarms.append(
-        {
-            "action": "display",
-            "trigger": timedelta(hours=-2),
-            "description": "Recordatorio partido"
-        }
-    )
+    # # ---- Recordatorio automático (2 horas antes) ----
+    # evento.alarms.append(
+    #     {
+    #         "action": "display",
+    #         "trigger": timedelta(hours=-2),
+    #         "description": "Recordatorio partido"
+    #     }
+    # )
 
     calendar.events.add(evento)
 
