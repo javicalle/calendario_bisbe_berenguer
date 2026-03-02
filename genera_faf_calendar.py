@@ -36,10 +36,8 @@ soup = BeautifulSoup(response.text, "html.parser")
 calendar = Calendar()
 
 # resultados = soup.find_all("table", class_="fcftable")
-partidos = soup.find("table", class_="fcftable").find_all('tr')
-
-# for resultado in resultados:
-#     partidos = resultado.find_all("tr")
+# partidos = soup.find("table", class_="fcftable").find_all('tr')
+partidos = soup.select("table.fcftable tbody tr")
 
 for partido in partidos:
 
