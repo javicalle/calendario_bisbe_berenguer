@@ -107,7 +107,7 @@ for partido in partidos:
         f"Detalle del partido:\n{enlace_detalle}"
     )
 
-    uid_source = f"{local}-{visitante}"
+    uid_source = f"{TEMPORADA}-{jornada}-{local}-{visitante}"
     evento.uid = hashlib.md5(uid_source.encode()).hexdigest()
 
     # # ---- Recordatorio automático (2 horas antes) ----
