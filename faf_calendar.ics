@@ -2,240 +2,270 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Jornada 15\n\nCondición: Visitante\nLocal: SANTS\, U.E. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sants-ue-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 15\n\nCondición: Visitante\nLocal: SANTS\, U.E. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL CEM LA BASCULA EMILIO FERNANDEZ F11\nDirección: c/ del Foc\, 132\, Barcelona\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.358501+2.146335\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sants-ue-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20260117T203000Z
+LOCATION:CAMP DE FUTBOL CEM LA BASCULA EMILIO FERNANDEZ F11
 DTSTART:20260117T190000Z
 SUMMARY:🚗 SANTS\, U.E. A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:87b6b9051089400ea7205ab46321f60a
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sants-ue-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 8\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: SARRIA\, C.P. A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sarria-cp-a
+DESCRIPTION:Jornada 8\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: SARRIA\, C.P. A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sarria-cp-a
 DTEND:20251109T150000Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20251109T133000Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs SARRIA\, C.P. A
 UID:eaabc7fedfb6834f657029835cba39d9
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sarria-cp-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 6\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: L\\'HOSPITALET\, CENTRE ESPORTS B\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/lhospitalet-centre-esports-b
+DESCRIPTION:Jornada 6\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: L\\'HOSPITALET\, CENTRE ESPORTS B\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/lhospitalet-centre-esports-b
 DTEND:20251025T113000Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20251025T100000Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs L\\'HOSPITALET\, CENTRE ESPORTS B
 UID:c4e83e2290e18b40930769d0e2a5a5d7
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/lhospitalet-centre-esports-b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 5\n\nCondición: Visitante\nLocal: Pª BARC. ANGUERA A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/pa-barc-anguera-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 5\n\nCondición: Visitante\nLocal: Pª BARC. ANGUERA A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL ESCOLA INDUSTRIAL\nDirección: c/ de Viladomat\, 244\, Barcelona\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.38742+2.147157\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/pa-barc-anguera-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20251019T120000Z
+LOCATION:CAMP DE FUTBOL ESCOLA INDUSTRIAL
 DTSTART:20251019T103000Z
 SUMMARY:🚗 Pª BARC. ANGUERA A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:2c39f16b539aa69e7413eff5e5d5cecc
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/pa-barc-anguera-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 29\n\nCondición: Visitante\nLocal: Pª BARC. CINC COPES A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/pa-barc-cinc-copes-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 29\n\nCondición: Visitante\nLocal: Pª BARC. CINC COPES A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL CEM FORT-PIENC\nDirección: c/ de la Marina\, 111-115\, Barcelona\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.395547+2.184793\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/pa-barc-cinc-copes-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20260509T143000Z
+LOCATION:CAMP DE FUTBOL CEM FORT-PIENC
 DTSTART:20260509T130000Z
 SUMMARY:🚗 Pª BARC. CINC COPES A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:b63e9b3daa34e3de6c94a0004c3ecf07
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/pa-barc-cinc-copes-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 17\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: FUNDACIO ATLETIC SANT JUST  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/fundacio-atletic-sant-just-a
+DESCRIPTION:Jornada 17\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: FUNDACIO ATLETIC SANT JUST  A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/fundacio-atletic-sant-just-a
 DTEND:20260131T163000Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20260131T150000Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs FUNDACIO ATLETIC SANT JUST  A
 UID:38e3b5abc9bc6205eb2e0674c2094df8
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/fundacio-atletic-sant-just-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 30\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: SANTS\, U.E. A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sants-ue-a
+DESCRIPTION:Jornada 30\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: SANTS\, U.E. A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sants-ue-a
 DTEND:20260517T095500Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20260517T082500Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs SANTS\, U.E. A
 UID:38125bbf3592373d34d1b762e50330d9
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sants-ue-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 9\n\nCondición: Visitante\nLocal: SANTBOIA\, F.C. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/santboia-fc-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 9\n\nCondición: Visitante\nLocal: SANTBOIA\, F.C. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL MPAL. JOAN BAPTISTA MILÀ\nDirección: rda. Sant Ramon\, 159 \, Sant Boi De Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.339484+2.034039\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/santboia-fc-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20251116T124500Z
+LOCATION:CAMP DE FUTBOL MPAL. JOAN BAPTISTA MILÀ
 DTSTART:20251116T111500Z
 SUMMARY:🚗 SANTBOIA\, F.C. A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:c063f2fa77f530b3e7e5d61ef688eaea
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/santboia-fc-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 12\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: SANT ANDREU DE LA BARCA AGRUP. A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sant-andreu-de-la-barca-agrup-a
+DESCRIPTION:Jornada 12\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: SANT ANDREU DE LA BARCA AGRUP. A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sant-andreu-de-la-barca-agrup-a
 DTEND:20251214T130000Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20251214T113000Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs SANT ANDREU DE LA BARCA AGRUP. A
 UID:3f663b18c1cfe121a5f068dc367b172d
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sant-andreu-de-la-barca-agrup-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 18\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: VILA OLIMPICA CLUB ESP. A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/vila-olimpica-club-esp-a
+DESCRIPTION:Jornada 18\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: VILA OLIMPICA CLUB ESP. A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/vila-olimpica-club-esp-a
 DTEND:20260208T115000Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20260208T102000Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs VILA OLIMPICA CLUB ESP. A
 UID:2728745125eee7f7af2fb8db75a7984f
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/vila-olimpica-club-esp-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 14\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: Pª BARC. CINC COPES A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/pa-barc-cinc-copes-a
+DESCRIPTION:Jornada 14\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: Pª BARC. CINC COPES A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/pa-barc-cinc-copes-a
 DTEND:20260111T143000Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20260111T130000Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs Pª BARC. CINC COPES A
 UID:495b768ad58dada99c2ad62f34f1db60
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/pa-barc-cinc-copes-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 21\n\nCondición: Visitante\nLocal: L\\'HOSPITALET\, CENTRE ESPORTS B\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/lhospitalet-centre-esports-b/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 21\n\nCondición: Visitante\nLocal: L\\'HOSPITALET\, CENTRE ESPORTS B\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL MPAL. DE L´HOSPITALET LLOBREGAT\nDirección: c/ de la Feixa Llarga\, 24\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.34712+2.101855\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/lhospitalet-centre-esports-b/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20260307T121500Z
+LOCATION:CAMP DE FUTBOL MPAL. DE L´HOSPITALET LLOBREGAT
 DTSTART:20260307T104500Z
 SUMMARY:🚗 L\\'HOSPITALET\, CENTRE ESPORTS B vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:68c00531508170184b50f6269247032a
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/lhospitalet-centre-esports-b/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 28\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: PRAT\, A.E. A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/prat-ae-a
+DESCRIPTION:Jornada 28\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: PRAT\, A.E. A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/prat-ae-a
 DTEND:20260503T095500Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20260503T082500Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs PRAT\, A.E. A
 UID:6ec54bf7a5724f7d4e84e9ae31f38a67
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/prat-ae-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 10\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: EUROPA\, C.E. A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/europa-ce-a
+DESCRIPTION:Jornada 10\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: EUROPA\, C.E. A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/europa-ce-a
 DTEND:20251123T123000Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20251123T110000Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs EUROPA\, C.E. A
 UID:fb205f13a36bd9341095b6d4c92744c9
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/europa-ce-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 2\n\nCondición: Visitante\nLocal: FUNDACIO ATLETIC SANT JUST  A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-atletic-sant-just-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 2\n\nCondición: Visitante\nLocal: FUNDACIO ATLETIC SANT JUST  A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL MPAL. DE SANT JUST DESVERN\nDirección: c/ de Cervantes\, 7\, Sant Just Desvern\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.382711+2.067671\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-atletic-sant-just-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20250927T123500Z
+LOCATION:CAMP DE FUTBOL MPAL. DE SANT JUST DESVERN
 DTSTART:20250927T110500Z
 SUMMARY:🚗 FUNDACIO ATLETIC SANT JUST  A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:a68c03406caaeb32e74739f026546564
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-atletic-sant-just-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 23\n\nCondición: Visitante\nLocal: SARRIA\, C.P. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sarria-cp-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 23\n\nCondición: Visitante\nLocal: SARRIA\, C.P. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL CEM CAN CARALLEU\nDirección: c/ dels Esports\, 3\, Barcelona\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.401044+2.110733\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sarria-cp-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20260321T150000Z
+LOCATION:CAMP DE FUTBOL CEM CAN CARALLEU
 DTSTART:20260321T133000Z
 SUMMARY:🚗 SARRIA\, C.P. A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:080f13a65b68426bdf6042f6af98be44
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sarria-cp-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 24\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: SANTBOIA\, F.C. A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/santboia-fc-a
+DESCRIPTION:Jornada 24\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: SANTBOIA\, F.C. A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/santboia-fc-a
 DTEND:20260329T095500Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20260329T082500Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs SANTBOIA\, F.C. A
 UID:8d1227a62ac88939d07746e2c3b7e5b3
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/santboia-fc-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 4\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: MARTINENC\, F.C. A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/martinenc-fc-a
+DESCRIPTION:Jornada 4\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: MARTINENC\, F.C. A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/martinenc-fc-a
 DTEND:20251012T095500Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20251012T082500Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs MARTINENC\, F.C. A
 UID:809aa48a90e0d51d5c8323ee88def744
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/martinenc-fc-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 16\n\nCondición: Visitante\nLocal: SANT GABRIEL\, C.D. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sant-gabriel-cd-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 16\n\nCondición: Visitante\nLocal: SANT GABRIEL\, C.D. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL CEM MARINA BESÒS JOSÉ LUIS RUIZ CASADO\nDirección: c/ Dolores Ibárruri Pasionaria\, s/n\, Sant Adrià De Besòs\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.423696+2.231086\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sant-gabriel-cd-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20260125T160000Z
+LOCATION:CAMP DE FUTBOL CEM MARINA BESÒS JOSÉ LUIS RUIZ CASADO
 DTSTART:20260125T143000Z
 SUMMARY:🚗 SANT GABRIEL\, C.D. A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:933535a81f76475e25f9ac8099a4b540
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sant-gabriel-cd-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 20\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: Pª BARC. ANGUERA A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/pa-barc-anguera-a
+DESCRIPTION:Jornada 20\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: Pª BARC. ANGUERA A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/pa-barc-anguera-a
 DTEND:20260228T110000Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20260228T093000Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs Pª BARC. ANGUERA A
 UID:b2a45877177ffdccb174f2ca4e9906b1
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/pa-barc-anguera-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 1\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: SANT GABRIEL\, C.D. A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sant-gabriel-cd-a
+DESCRIPTION:Jornada 1\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: SANT GABRIEL\, C.D. A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sant-gabriel-cd-a
 DTEND:20250921T101500Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20250921T084500Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs SANT GABRIEL\, C.D. A
 UID:b6ea164eba6c937edbfb264a126163c1
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/sant-gabriel-cd-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 19\n\nCondición: Visitante\nLocal: MARTINENC\, F.C. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/martinenc-fc-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 19\n\nCondición: Visitante\nLocal: MARTINENC\, F.C. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL CEM GUINARDÓ\nDirección: rda. del Guinardó\, 141\, Barcelona\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.416368+2.17287\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/martinenc-fc-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20260222T144500Z
+LOCATION:CAMP DE FUTBOL CEM GUINARDÓ
 DTSTART:20260222T131500Z
 SUMMARY:🚗 MARTINENC\, F.C. A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:2d86b52c0018d5fdb5539a4a30474258
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/martinenc-fc-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 13\n\nCondición: Visitante\nLocal: PRAT\, A.E. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/prat-ae-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 13\n\nCondición: Visitante\nLocal: PRAT\, A.E. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL CEM SAGNIER\nDirección: c/ del Roure\, 418\, El Prat de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.320355+2.083488\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/prat-ae-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20251220T145000Z
+LOCATION:CAMP DE FUTBOL CEM SAGNIER
 DTSTART:20251220T132000Z
 SUMMARY:🚗 PRAT\, A.E. A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:bc1906e2b7f12262d7d1a8354a4884c5
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/prat-ae-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 7\n\nCondición: Visitante\nLocal: HORTA\, U.AT. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/horta-uat-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 7\n\nCondición: Visitante\nLocal: HORTA\, U.AT. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL MPAL. HORTA\nDirección: c/ de Feliu i Codina\, 35-37\, Barcelona\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.434667+2.160872\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/horta-uat-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20251101T123000Z
+LOCATION:CAMP DE FUTBOL MPAL. HORTA
 DTSTART:20251101T110000Z
 SUMMARY:🚗 HORTA\, U.AT. A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:9bed6251999bc0ad4ebafdc4bff53137
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/horta-uat-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 3\n\nCondición: Visitante\nLocal: VILA OLIMPICA CLUB ESP. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/vila-olimpica-club-esp-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 3\n\nCondición: Visitante\nLocal: VILA OLIMPICA CLUB ESP. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL MPAL. POBLENOU-AGAPITO FERNÁNDEZ\nDirección: av. del Litoral\, 100\, Barcelona\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.401188+2.213486\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/vila-olimpica-club-esp-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20251005T133000Z
+LOCATION:CAMP DE FUTBOL MPAL. POBLENOU-AGAPITO FERNÁNDEZ
 DTSTART:20251005T120000Z
 SUMMARY:🚗 VILA OLIMPICA CLUB ESP. A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:4104945251a8f7746492c51273375a26
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/vila-olimpica-club-esp-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 26\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: FUNDACIO UNIO ESPORTIVA CORNELLA A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/fundacio-unio-esportiva-cornella-a
+DESCRIPTION:Jornada 26\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: FUNDACIO UNIO ESPORTIVA CORNELLA A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/fundacio-unio-esportiva-cornella-a
 DTEND:20260419T095500Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20260419T082500Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs FUNDACIO UNIO ESPORTIVA CORNELLA A
 UID:b09c57fc8076aab83a8bb0fe3e8b266a
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/fundacio-unio-esportiva-cornella-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 11\n\nCondición: Visitante\nLocal: FUNDACIO UNIO ESPORTIVA CORNELLA A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-unio-esportiva-cornella-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 11\n\nCondición: Visitante\nLocal: FUNDACIO UNIO ESPORTIVA CORNELLA A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL MPAL. DE CORNELLÀ DE LLOBREGAT\nDirección: c/ del Sorral del Riu\, 5\, Cornellà de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.34765+2.07357\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-unio-esportiva-cornella-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20251129T173000Z
+LOCATION:CAMP DE FUTBOL MPAL. DE CORNELLÀ DE LLOBREGAT
 DTSTART:20251129T160000Z
 SUMMARY:🚗 FUNDACIO UNIO ESPORTIVA CORNELLA A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:7e9c57dbf3cd5a0ac8f37c9ce12dacf2
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-unio-esportiva-cornella-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 25\n\nCondición: Visitante\nLocal: EUROPA\, C.E. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/europa-ce-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 25\n\nCondición: Visitante\nLocal: EUROPA\, C.E. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL MPAL. NOU SARDENYA\nDirección: c/ de les Camèlies\, 42B\, Barcelona\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.412044+2.161219\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/europa-ce-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20260411T143000Z
+LOCATION:CAMP DE FUTBOL MPAL. NOU SARDENYA
 DTSTART:20260411T130000Z
 SUMMARY:🚗 EUROPA\, C.E. A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:b31361f571f9ae74665519336e176e0e
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/europa-ce-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 27\n\nCondición: Visitante\nLocal: SANT ANDREU DE LA BARCA AGRUP. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sant-andreu-de-la-barca-agrup-a/pi14/fundacio-academia-f-lhospitalet-a
+DESCRIPTION:Jornada 27\n\nCondición: Visitante\nLocal: SANT ANDREU DE LA BARCA AGRUP. A\nVisitante: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\n\nEstadi: CAMP DE FUTBOL IEM CAN SALVI\nDirección: c/ Gaspar de Preses\, s/n\, Sant Andreu De La Barca\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.44739+1.961971\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sant-andreu-de-la-barca-agrup-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20260426T120000Z
+LOCATION:CAMP DE FUTBOL IEM CAN SALVI
 DTSTART:20260426T103000Z
 SUMMARY:🚗 SANT ANDREU DE LA BARCA AGRUP. A vs FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A
 UID:da03f56fe030cc616437901480afd7f3
 URL:https://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/sant-andreu-de-la-barca-agrup-a/pi14/fundacio-academia-f-lhospitalet-a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jornada 22\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: HORTA\, U.AT. A\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/horta-uat-a
+DESCRIPTION:Jornada 22\n\nCondición: Local\nLocal: FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A\nVisitante: HORTA\, U.AT. A\n\nEstadi: CAMP DE FUTBOL MPAL. SANTA EULÀLIA\nDirección: c/ Aprestadora\, 132-140\, L'Hospitalet de Llobregat\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.361715+2.12104\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-academia-f-lhospitalet-a/pi14/horta-uat-a
 DTEND:20260315T105500Z
+LOCATION:CAMP DE FUTBOL MPAL. SANTA EULÀLIA
 DTSTART:20260315T092500Z
 SUMMARY:🏠 FUNDACIÓ ACADEMIA F. L\\'HOSPITALET  A vs HORTA\, U.AT. A
 UID:985ea9f8e430e40cdc6435742ee5500d
