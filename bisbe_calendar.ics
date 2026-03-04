@@ -1,4 +1,6 @@
 BEGIN:VCALENDAR
+X-WR-CALNAME:Futbol Sala Bisbe Berenguer 25/26
+X-WR-TIMEZONE:Europe/Madrid
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
