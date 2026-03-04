@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
+from ics.marshal import ContentLine
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 import hashlib
@@ -156,7 +157,12 @@ for partido in partidos:
 
     calendar.events.add(evento)
 
-with open("faf_calendar.ics", "w", encoding="utf-8") as f:
-    f.writelines(calendar)
+calendar.extra.append(ContentLine(name="X-WR-CALNAME", value="FAF Infantil S14 A"))
+calendar.extra.append(ContentLine(name="X-WR-TIMEZONE", value="Europe/Madrid"))
+
+# with open("faf_calendar.ics", "w", encoding="utf-8") as f:
+#     f.writelines(calendar)
+with open("faf_calendar.ics", "w", encoding="utf-8", newline='') as f:
+    f.write(calendar.serialize())
 
 print("Calendario FAF generado correctamente.")
