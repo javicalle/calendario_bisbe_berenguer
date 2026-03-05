@@ -162,7 +162,7 @@ calendar.extra.append(ContentLine(name="X-WR-TIMEZONE", value="Europe/Madrid"))
 
 # with open("faf_calendar.ics", "w", encoding="utf-8") as f:
 #     f.writelines(calendar)
-with open("faf_calendar.ics", "w", encoding="utf-8", newline='') as f:
+with open("site/faf_calendar.ics", "w", encoding="utf-8", newline='') as f:
     f.write(calendar.serialize())
 
 print("Calendario FAF generado correctamente.")
