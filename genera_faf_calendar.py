@@ -67,6 +67,7 @@ response.raise_for_status()
 
 soup = BeautifulSoup(response.text, "html.parser")
 calendar = Calendar()
+calendar.scale= "GREGORIAN"
 
 # resultados = soup.find_all("table", class_="fcftable")
 partidos = soup.find("table", class_="fcftable").find('tbody').find_all('tr')
