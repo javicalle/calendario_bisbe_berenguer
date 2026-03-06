@@ -83,9 +83,9 @@ for partido in partidos:
     jornada = cols[0].get_text(strip=True)
     fecha = cols[1].get_text(strip=True)
     hora = cols[2].get_text(strip=True)
-    local = cols[3].a.get_text(strip=True)
+    local = cols[3].a.get_text(strip=True).replace("L\'HOSPITALET", "L'HOSPITALET")
     local_link = cols[3].a.get('href').replace(f"{BASE_URL}equip/{TEMPORADA}/", '')
-    visitante = cols[4].a.get_text(strip=True)
+    visitante = cols[4].a.get_text(strip=True).replace("L\'HOSPITALET", "L'HOSPITALET")
     visitante_link = cols[4].a.get('href').replace(f"{BASE_URL}equip/{TEMPORADA}/", '')
     resultado = cols[5].get_text(strip=True)
 
