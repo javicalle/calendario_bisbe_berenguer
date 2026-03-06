@@ -105,7 +105,8 @@ for resultado in resultados:
         #         "description": "Recordatorio partido"
         #     }
         # )
-        # calendar.events.add(evento)
+        
+        calendar.events.add(evento)
 
 
 calendar.extra.append(ContentLine(name="X-WR-CALNAME", value="Futbol Sala Bisbe Berenguer 25/26"))
