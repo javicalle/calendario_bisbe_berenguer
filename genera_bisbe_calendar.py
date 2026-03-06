@@ -7,6 +7,9 @@ from zoneinfo import ZoneInfo
 import hashlib
 import urllib.parse
 
+# detalle equipo: https://consell-lh.playoffinformatica.com/CompeticioEquip.php?accio=accio_competicio_publica_detall_participant&idEquip=2912&idGrup=899
+# resultados: https://consell-lh.playoffinformatica.com/CompeticioResultatsCalendariWeb.php?accio=accio_competicio_publica_resultats&idGrup=899&idTemporada=8
+
 BASE_URL = "https://consell-lh.playoffinformatica.com/"
 ID_GRUP = "899"
 CALENDAR_URL = BASE_URL + "peticioAjaxCompeticioPublica.php?peticioKey=peticio_competicio_publica_calendari" + "&idGrup=" + ID_GRUP
