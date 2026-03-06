@@ -3,6 +3,7 @@ X-WR-CALNAME:FAF Infantil S14 A
 X-WR-TIMEZONE:Europe/Madrid
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+CALSCALE:GREGORIAN
 BEGIN:VEVENT
 DESCRIPTION:Jornada 2\n\nCondición: Visitante\nLocal: FUNDACIO ATLETIC SANT JUST  A\nVisitante: FUNDACIÓ ACADEMIA F. L'HOSPITALET  A\n\nCampo: CAMP DE FUTBOL MPAL. DE SANT JUST DESVERN\nDirección: c/ de Cervantes\, 7\, Sant Just Desvern\nGoogle Maps: http://maps.google.com/maps?z=12&t=m&q=loc:41.382711+2.067671\n\nDetalle del partido:\nhttps://www.fcf.cat/acta/2526/futbol-11/preferent-infantil-s14/grup-2/pi14/fundacio-atletic-sant-just-a/pi14/fundacio-academia-f-lhospitalet-a
 DTEND:20250927T123500Z
