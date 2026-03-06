@@ -83,16 +83,13 @@ for partido in partidos:
     jornada = cols[0].get_text(strip=True)
     fecha = cols[1].get_text(strip=True)
     hora = cols[2].get_text(strip=True)
-    local_raw = cols[3].a.get_text(strip=True)
-    local = local_raw.replace("L\'HOSPITALET", "L'HOSPITALET")
+    local = cols[3].a.get_text(strip=True).replace("\\'", "'")
     local_link = cols[3].a.get('href').replace(f"{BASE_URL}equip/{TEMPORADA}/", '')
-    visitante_raw = cols[4].a.get_text(strip=True)
-    visitante = visitante_raw.replace("L\'HOSPITALET", "L'HOSPITALET")
+    visitante = cols[4].a.get_text(strip=True).replace("\\'", "'")
     visitante_link = cols[4].a.get('href').replace(f"{BASE_URL}equip/{TEMPORADA}/", '')
     resultado = cols[5].get_text(strip=True)
 
     # print(f"--> {jornada} {fecha} {hora} {local} {visitante}")
-    print(f"--> {local_raw} ({local}) VS {visitante_raw} ({visitante})")
 
     if FAF not in local and FAF not in visitante:
         continue
