@@ -25,7 +25,7 @@ jobs:
       - name: Generar calendarios
         run: |
           python genera_bisbe_calendar.py
-          # python genera_faf_calendar.py
+          python genera_faf_calendar.py
 
       - name: Commit cambios
         id: site_changes
