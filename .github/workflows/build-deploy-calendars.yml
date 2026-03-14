@@ -9,7 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     outputs:
-      is_updated: ${{ steps.check_site_changes.outputs.site_updated }}
+      # is_updated: ${{ steps.check_site_changes.outputs.site_updated }}
+      is_updated: ${{ steps.site_changes.outputs.site_updated }}
 
     steps:
       - name: Checkout repo
@@ -32,7 +33,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add site/*.ics
-          (( git commit -m "Actualizar calendarios" && echo "site_updated=true" >> $GITHUB_OUTPUT )) || echo "Sin cambios"
+          (( git commit -m 'Actualizar calendarios' && (( echo 'site_updated=true' >> $GITHUB_OUTPUT )) )) || echo "Sin cambios"
           git push
 
       # - name: Check site changes
